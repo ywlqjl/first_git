@@ -1,0 +1,4 @@
+#Sat Dec 16 23:04:20 CET 2017
+base.0=/Users/yanwenli/Documents/java/CanvasTest2/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
